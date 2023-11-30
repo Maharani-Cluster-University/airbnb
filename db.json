@@ -1,0 +1,6 @@
+{
+  "hotels": [
+    { "id": 1, "title": "hotel 1", "content": "Content for post 1" },
+    { "id": 2, "title": "hotel 2", "content": "Content for post 2" }
+  ]
+}
